@@ -1,2 +1,2 @@
 # hello-world
-this s for practice
+this is for practice
